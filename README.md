@@ -4,8 +4,10 @@ API for open data set on renewable energy sources
 (Open Renewable Energy Sources Data Set)
 
 ##Related open data sources
-- [INPE](www.inpe.br/):
+- [INPE](http://www.inpe.br/):
 
-- [REDEMET](www.redemet.aer.mil.br/):
+- [REDEMET](http://www.redemet.aer.mil.br/):
+
+- [NOAA](https://www.ncdc.noaa.gov/cdo-web/datasets):
 
 
